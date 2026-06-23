@@ -1,0 +1,25 @@
+КТ №9 — MVVM на Elementary
+
+1. Распакуйте архив в:
+   C:\FlutterProjects\mvvm_elementary_app
+
+2. Откройте папку mvvm_elementary_app в Проводнике.
+
+3. В адресной строке Проводника напишите:
+   cmd
+
+4. В открывшемся окне выполните:
+   setup_project.cmd
+
+5. Дождитесь сообщения:
+   DONE.
+
+6. Откройте эту же папку mvvm_elementary_app в Android Studio.
+
+7. Запустите Pixel 4, выберите его в верхней панели и нажмите Run.
+
+Если нужно запустить через Terminal:
+
+& "C:\develop\flutter\bin\flutter.bat" clean
+& "C:\develop\flutter\bin\flutter.bat" pub get
+& "C:\develop\flutter\bin\flutter.bat" run
